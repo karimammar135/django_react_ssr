@@ -27,3 +27,4 @@
 
 #### Adding the app to the settings file
 ###### Go to `<project_name>/settings.py` and add the app you just created to the installed apps list.
+```'frontend.apps.FrontendConfig',```
