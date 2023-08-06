@@ -7,8 +7,10 @@
 ###### activate virtual enviroment
 ```pyenv activate venv```
 
+--
 **NOTE**
 The rest of the commands are all executed within the virtual enviroment
+--
 
 #### Download yarn
 ```npm install -g yarn```
